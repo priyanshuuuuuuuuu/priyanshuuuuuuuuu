@@ -44,8 +44,8 @@ When I'm not staring at a terminal, I'm probably building something unnecessaril
 
 ### 💼 Experience
 
-- **Software Intern** @ Grove Growth — [`SDOS_Grove_Growth`](https://github.com/SDOS-2026/SDOS_Grove_Growth)
-- **Web Dev Intern** @ CiPD
+- **Software Engineering Intern** @ LegalBridge
+- **Software Developement Intern** @ CiPD
 - **Undergraduate Researcher** @ Infosys Centre for AI, IIIT Delhi
 
 ---
